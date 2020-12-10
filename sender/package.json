@@ -1,0 +1,13 @@
+{
+  "name": "sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "ws": "^7.4.1"
+  }
+}
